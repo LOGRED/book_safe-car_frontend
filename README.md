@@ -2,6 +2,11 @@
 - 차량 갇힘 방지 어플리케이션을을 책에 집필 하기위해서 작성한 코드, 원래는 2대의 디바이스를 통해서 차량에 설치되어있는 디바이스가 사람을 탐지하면 사용자가 가지고다니는 핸드폰으로 알람을 전송하는 방식이었음.
 - 하지만, 알람을 보내기 위해서는 IOS기준 개발자 등록이 필요하기 때문에 책에서는 간단하게 구현
 
+## Backend
+https://github.com/LOGRED/book_safe-car_backend
+
+## Frontend
+https://github.com/LOGRED/book_safe-car_frontend
 
 
 ## Screenshots
